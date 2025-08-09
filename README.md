@@ -27,7 +27,7 @@ It aims to help users explore insights such as **calorie content, nutrient compo
 📁 McDonalds-PowerBI-Dashboard
 │── McDonald's Dashboard.pbix      # Power BI project file
 │── README.md                       # Project documentation
-│── /images                         # Screenshots of dashboard (optional)
+
 ```
 
 ---
